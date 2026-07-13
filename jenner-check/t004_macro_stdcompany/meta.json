@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_macro_stdcompany",
+  "source_file": "碩論效率資料整理_20250911.sas",
+  "source_blob_sha": "275ecfbd997f953c7aaf07daad100aef45c31163",
+  "source_commit": "92711e62f9c74a9f58a1939fbddd682a4ca89cac",
+  "notes": "%std_company_id and %make_years defined verbatim from the file's utility-macro section. A 5-row inline caller dataset mixes numeric companyIDs (exercising the vtype()='N' putn z6. zero-pad branch) with character IDs (upcase/strip branch) plus a raw year column, so the macros' full branching runs against small mock input. No external data."
+}

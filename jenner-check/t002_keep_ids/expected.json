@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-13T08:01:30Z",
+  "_captured_run_id": "r_3f6e554f09764f3fa90ce6ebe3993804",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Read 107 rows from DATALINES.",
+    "Wrote keep_ids (107 rows, 1 columns).",
+    "PROC FREQ statement used."
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

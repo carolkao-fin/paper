@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_sargan_overid",
+  "source_file": "過度識別(穩健性測試).sas",
+  "source_blob_sha": "f63e89ef2cd1def4bfb6add0af1323eb67d7aa31",
+  "source_commit": "92711e62f9c74a9f58a1939fbddd682a4ca89cac",
+  "notes": "Self-contained joint Sargan over-identification block (sections 4/7/8 + PROC PRINT). Aggregates per-equation Sargan statistics and computes chi-square p-values via probchi(); no external xlsx needed, so the block runs verbatim. Labels/中文 kept as authored."
+}
