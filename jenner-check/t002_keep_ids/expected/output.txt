@@ -1,0 +1,13 @@
+                                                       保留公司代號名單摘要                                                       
+
+n_ids  n_distinct
+  107         107
+
+                                                       保留公司代號名單摘要                                                       
+
+                                                   The FREQ Procedure
+
+id_type        Frequency    Percent
+------------------------------------
+other                 42     42.00
+zero-prefix           58     58.00

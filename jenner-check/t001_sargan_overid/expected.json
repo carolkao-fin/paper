@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-13T08:00:30Z",
+  "_captured_run_id": "r_0ce7177064744366bd8e1a2801b979a0",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Wrote sargan_Lerner2 (1 rows, 10 columns).",
+    "Read 1 rows from sargan_Lerner2.",
+    "Read 2 rows from sargan_hhi2.",
+    "PROC PRINT completed: 2 observations printed, 4 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

@@ -1,0 +1,9 @@
+                                                 標準化 companyID 與年份轉換結果                                                  
+
+companyID_n  companyID_c  id_from_num  id_from_char  rawyear  year  yearnew
+        116               000116                     2003     2003        1
+        616               000616                     2010     2010        8
+          .  6005                      6005          2015     2015       13
+          .  000779                    000779        2019     2019       17
+          .  30559abc                  30559ABC      2021     2021       19
+

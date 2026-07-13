@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_li_stats",
+  "source_file": "碩論LI趨勢整理.sas",
+  "source_blob_sha": "0769d4049b01236dd913dfd119908e38a4a9161b",
+  "source_commit": "92711e62f9c74a9f58a1939fbddd682a4ca89cac",
+  "notes": "The per-company Lerner-index (LI) statistics pipeline — overall PROC MEANS, by-year MEANS, PROC MEANS NWAY OUTPUT to stat_byID, nodupkey company_info, and the in=a merge with 中文 labels + PROC PRINT — kept verbatim. Only the leading PROC IMPORT of paper_patent_final2.xlsx was swapped for a 15-row inline DATA step with the same columns (companyID, companyName, year, LI); 5 firms from the author's own sample."
+}

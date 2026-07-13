@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_keep_ids",
+  "source_file": "碩論效率資料整理_20250911.sas",
+  "source_blob_sha": "275ecfbd997f953c7aaf07daad100aef45c31163",
+  "source_commit": "92711e62f9c74a9f58a1939fbddd682a4ca89cac",
+  "notes": "The inline DATALINES keep-list DATA step (step 7, companyID $10 with INFILE DATALINES TRUNCOVER) lifted verbatim, plus a PROC SQL count and a PROC FREQ id-type tally so the block produces observable output on its own. Uses the author's actual company codes; no external data."
+}

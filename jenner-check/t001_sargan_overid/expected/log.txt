@@ -1,0 +1,28 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA sargan_Lerner2
+
+
+NOTE: Wrote sargan_Lerner2 (1 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA sargan_hhi2
+
+
+NOTE: Wrote sargan_hhi2 (1 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA joint_sargan_all2
+
+
+NOTE: Read 1 rows from sargan_Lerner2.
+NOTE: Read 2 rows from sargan_hhi2.
+NOTE: Wrote joint_sargan_all2 (2 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=joint_sargan_all2
+
+NOTE: PROC PRINT completed: 2 observations printed, 4 variables
